@@ -1,11 +1,10 @@
+# Tailwind Traders Website
+
 https://dev.azure.com/roel-S2/TailwindTraders/ 
 
 https://github.com/NL12143/TailwindTraders-Website 
 
 https://github.com/NL12143/TailwindTraders-Backend 
-
-
-# Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
